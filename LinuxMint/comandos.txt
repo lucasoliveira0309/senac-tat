@@ -1,0 +1,507 @@
+    1  sudo
+    2  sudo -i
+    3  sudo apt update
+    4  sudo apt upgrade
+    5  sudo apt full-upgrade 
+    6  sudo apt dist-upgrade 
+    7  sudo apt autoremove
+    8  sudoapt autoclean
+    9  sudo apt autoclean
+   10  sudo apt hi
+   11  history
+   12  reboot
+   13  app
+   14  sudo atualizar
+   15  sudo power off
+   16  sudo poweroff
+   17  sudo apt update
+   18  sudo apt install git vim kol
+   19  kolourpaint
+   20  sudo apt install git vim kolourpaint 
+   21  sudo apt uinstall kolourpaint
+   22  pwd
+   23  ls
+   24  ls -l
+   25  ls -lh
+   26  ls -l
+   27  ls -lhA
+   28  cd
+   29  cd/
+   30  cdcd /
+   31  cdcd cdcd 
+   32  cd /
+   33  cd 
+   34  cd /
+   35  pwd
+   36  ls
+   37  ls -h
+   38  ls -lh
+   39  cd ~
+   40  ls
+   41  pwd
+   42  cd -
+   43  ls
+   44  ls - lh
+   45  ls -lh
+   46  mkdir]
+   47  mkdir
+   48  mkdir -- help
+   49  mkdir - help
+   50  mkdir --help
+   51  man
+   52  man mkdir
+   53  pwd
+   54  mkdir SENAC
+   55  ls
+   56  mkdir senac
+   57  ls
+   58  cd senac/
+   59  twd
+   60  cd /
+   61  cd /home/lucas/SENAC/
+   62  cd ~/SENAC/
+   63  twp
+   64  mkdir -d TAT PEN CAS
+   65  mkdir -v TAT PEN CAS
+   66  twp
+   67  cd tat/
+   68  cd TAT/
+   69  twp
+   70  mkdir -v TEI TST
+   71  cd TEI/
+   72  PWD
+   73  pwd
+   74  cd ..
+   75  cd ~/SENAC/TAT/TEI/
+   76  cd ../../PEN/
+   77  mkdir -v TEI TST
+   78  cd TEI
+   79  ls -lh
+   80  ls -lha
+   81  echo
+   82  echo oiiiii
+   83  echo" SENAC tatuapé
+   84  echo "SENAC Tatuapé"
+   85  echo "SENAC Tatuapé TECNICO EM INFORAMTICA"
+   86  echo "SENAC Tatuapé TECNICO EM INFORAMTICA" > teste.txt
+   87  echo "SENAC Tatuapé TECNICO EM INFORAMTICA"> teste.txt
+   88  echo "SENAC Tatuapé TECNICO EM INFORAMTICA" >teste.txt
+   89  echo "SENAC Tatuapé TECNICO EM INFORAMTICA" > teste.txt
+   90  ls
+   91  pwp
+   92  pws
+   93  echo "Lucas Oliveira" > teste.01.txt
+   94  ls
+   95  ls -lh
+   96  touch
+   97  echo > senac.txt
+   98  ls -lh
+   99  touch sesc.txt
+  100  ls -lh
+  101  touch sesc.txt
+  102  ls -lh
+  103  echo tatuape > senac.txt
+  104  ls -lh
+  105  echo penha > senac.txt
+  106  ls -lh
+  107  git
+  108  git clone [200~https://github.com/lucasoliveira0309/senac-tat~
+  109  git clone https://github.com/lucasoliveira0309/senac-tat
+  110  ls -lh
+  111  senac-tat
+  112  /senac-tat
+  113  cd /senac-tat
+  114  cd / senac-tat
+  115  cd senac-tat
+  116  ls
+  117  teste.txt
+  118  ls -lh
+  119  git config --global user.name "Lucas de Oliveira"
+  120  git confug --global usern.email lucasoliveira200ff@gmail.com
+  121  git config --global usern.email lucasoliveira200ff@gmail.com
+  122  list
+  123  git config --list
+  124  cd senac
+  125  cd TAT
+  126  cd home]
+  127  cd home
+  128  cd SENAC
+  129  cd /
+  130  cd /TAT
+  131  /senac
+  132  cd SENAC
+  133  cd senac
+  134  cd SENAC
+  135  cd /SENAC
+  136  cd senac
+  137  /senac
+  138  cd /senac
+  139  cd / SENAC
+  140  ls
+  141  home
+  142  home/
+  143  cd home
+  144  ls
+  145  cd /SENAC
+  146  cd /senac
+  147  ls -lh
+  148  ls - lh
+  149  ls -lh
+  150  cd SENAC
+  151  CD TAT/
+  152  cd TAT/
+  153  cd TEI
+  154  touch senac.txt senai.txt sesc.txt
+  155  echo "Tatuapé" > senac.txt
+  156  echo "Guarulhos" > senai.txt 
+  157  echo "Santana" > sesc.txt
+  158  ls -lh
+  159  cat senai.txt 
+  160  cat -n senai.txt 
+  161  echo "Vila Maria" > senai.txt 
+  162  cat senai.txt
+  163  echo "Itaquera" >> senai.txt 
+  164  cat senai.txt
+  165  echo "Brás" >> senai.txt 
+  166  cat senai.txt
+  167  tac > senai.txt 
+  168  cd > SENAC
+  169  ls -lh
+  170  SENAC
+  171  SENAC/
+  172  SENAC
+  173  LS -LH
+  174  ls -lh
+  175  SENAC/
+  176  cd SENAC/
+  177  cd TAT/
+  178  cd TEI/
+  179  cat senai.txt
+  180  TEI
+  181  ls -lh
+  182  senai.txt
+  183  cat senai.txt
+  184  echo "vila maria" > senai.txt 
+  185  cat senai.txt
+  186  echo "itaquera" >> senai.txt 
+  187  echo "bras" >> senai.txt 
+  188  cat senai.txt 
+  189  tac senai.txt
+  190  tail /etc/services 
+  191  head /etc/services 
+  192  cat -n/etc/services 
+  193  cat -n /etc/services 
+  194  tail -n3 /etc/services/
+  195  tail -n3 /etc/services
+  196  head -n3 /etc/services 
+  197  cat -n3 head /etc/services 
+  198  cat -n3 tail /etc/services 
+  199  cat -n5 tail /etc/services 
+  200  cat -n tail /etc/services 
+  201  cat -n2 tail /etc/services 
+  202  cat tail -n2 /etc/services 
+  203  cat tail-n2 /etc/services 
+  204  cat -n3 tail /etc/services 
+  205  help]
+  206  help
+  207  cat tail -n5 /etc/services 
+  208  cat n3 tail /etc/services 
+  209  cat -n /etc/services | tail -n3
+  210  cat -n /etc/services | head -n3
+  211  cat -n /etc/services | tail -n3 0/100 head -n3 100/200
+  212  cat -n /etc/services | tail -n3 0/100 -n3 100/200
+  213  cat -n /etc/services | tail -n3 0/300
+  214  cat -n /etc/services | tail -n3 1/300
+  215  cat -n100 head
+  216  cat -n100 head /etc/services 
+  217  cat -n head /etc/services 
+  218  cat -n head /etc/services | head 1|100
+  219  cat -n head /etc/services | head 100
+  220  cat -n head /etc/services | head -n100
+  221  cat -n head /etc/services | head -n100 tail -n200
+  222  cat -n head /etc/services | head -n100 Z tail -n200
+  223  cat -n head /etc/services | head -n100 | tail -n200
+  224  cat -n head /etc/services | head -n100 | tail -n200 tac
+  225  tac -n head /etc/services | head -n100 | tail -n200
+  226  cat -n head /etc/services | head -n100 | tail -n200
+  227  cat -n etc/services | head -n 200 | tail -101
+  228  cat -n /etc/services | head -n 200 | tail -101
+  229  cat -n /etc/services | head -n 200 | tail -101 | less
+  230  q
+  231  cat -n /etc/services | head -n 200 | tail -101 |  cat -n /etc/services | head -n 200 | tail -101 |  cat -n /etc/services | head -n 200 | tail -101 |  cat -n /etc/services | head -n 200 | tail -101
+  232  cat -n /etc/services | head -n 200 | tail -101
+  233  cat -n /etc/services | head -n 200 | tail -101 > vava.txt
+  234  ls -lh
+  235  cat -n vava.txt 
+  236  vava.txt cat -n
+  237  less vava.txt 
+  238  ls -lh
+  239  cp
+  240  cp vava.txt 
+  241  cp vava.txt ramos.txt
+  242  ls -lh
+  243  cp -v ramos.txt senai.txt
+  244  ls -lh
+  245  ls -lh ../
+  246  ls -lh ../../
+  247  cp vava.txt ../../PEN/
+  248  ls -lh ../../
+  249  ls -lh ../../PEN/
+  250  cat vava.txt 
+  251  touch BKP
+  252  ls -lh
+  253  mkdir -v bkp
+  254  cp -v *.txt bkp/
+  255  ls -lh
+  256  mv -v vava.txt vaamonde.md
+  257  ls -lh
+  258  mv -v ramos.txt ../TST/leandro.md
+  259  ls -lh
+  260  rm -v sesc.txt 
+  261  cd ..
+  262  rm -Rv TST/
+  263  ls
+  264  sudo dpkg -i code_1.94.2-1728494015_amd64.deb 
+  265  mkdir Lucas de Oliveira
+  266  ls
+  267  lucas oliveira
+  268  cd lucas oliveira
+  269  cd Lucas de Oliveira
+  270  cd Lucas
+  271  cd home
+  272  mkdir Lucas Oliveira
+  273  mkdir Lucas_Oliveira
+  274  ls
+  275  cd Lucas_Oliveira
+  276  mkdir SESC
+  277  ls
+  278  cd SESC/
+  279  mkdir BEL
+  280  cd Lucas_Oliveira
+  281  SESC/
+  282  cd SESC/
+  283  cd BEL/
+  284  touch danca.txt
+  285  ls
+  286  danca.txt touch Danças Brasileiras
+  287  echo
+  288  echo Danças Brasileiras
+  289  echo Danças Brasileira s>> Danças de salão
+  290  echo Danças Brasileiras >> Danças de salão
+  291  ls
+  292  rm >> Danças 
+  293  rm > Danças 
+  294  ls
+  295  cat Danças 
+  296  cat danca.txt 
+  297  echo > dancas.txtt
+  298  echo > dancas.txt
+  299  ls
+  300  echo >> Danças Brasileiras
+  301  cat 
+  302  cd Lucas_Oliveira
+  303  cd SESC/
+  304  cd BEL/
+  305  ls
+  306  echo danca.txt >> Danças Brasileiras 
+  307  ls
+  308  cat danca.txt
+  309  touch danca.txt >> Oi
+  310  ls
+  311  rm Oi
+  312  rm dancas.txtt
+  313  rm Danças
+  314  ls
+  315  rm dancas.txt
+  316  ls
+  317  echo danca.txt >> Danças Brasileiras
+  318  cat danca.txt 
+  319  ls
+  320  rm Danças
+  321  ls
+  322  echo >>  -v Danças Brasileiras""
+  323  echo >>  -v "Danças Brasileira" > danca.txt 
+  324  cat danca.txt 
+  325  echo >>  -v "Danças Brasileia" >> danca.txt 
+  326  echo >>  -v "Danças e Salão" >> danca.txt 
+  327  cat danca.txt 
+  328  mkdir SAN
+  329  cd SAN/
+  330  touch natacao.md
+  331  ls
+  332  echo >> -v "Crawl" > natacao.md
+  333  echo >> -v "Peito" >> natacao.md
+  334  echo >> -v "Costas" >> natacao.md
+  335  echo >> -v "Borboleta" >> natacao.md
+  336  car natacao.md 
+  337  cat natacao.md 
+  338  mkdir ITA
+  339  touch capoeita.sh
+  340  echo >> "Meia Lua de Frente" > capoeita.sh 
+  341  echo >> "Meia Lua de Compasso" >> capoeita.sh 
+  342  echo >> "Pisão Rodado" >> capoeita.sh 
+  343  mkdir BRA
+  344  cd BRA/
+  345  rm BRA
+  346  RM BRA/
+  347  mkdir Lucas_Oliveira/SENAI
+  348  cd Lucas_Oliveira/SENAI
+  349  mkdir BRA
+  350  cd BRA
+  351  mkdir Tornearia
+  352  cd Tornearia/
+  353  touch cal_nov_2024.txt
+  354  echo >> "Turma A 01/11 até 30/11" > cal_nov_2024.txt 
+  355  echo >> "Turma A 01/11 até 30/11" > cal_nov_2024.txt ls
+  356  ls
+  357  echo >> "Turma A 01/11 até 30/11" > cal_nov_2024.txt
+  358  echo > "Turma A 01/11 até 30/11" > cal_nov_2024.txt
+  359  ls
+  360  echo -v >> "Turma: A 01/11 até 30/11" > cal_nov_2024.txt 
+  361  echo -v >> "Turma A 01/11 até 30/11" > cal_nov_2024.txt 
+  362  rm cal_nov_2024.txt 
+  363  ls
+  364  touch cal_nov_2024.txt
+  365  ls
+  366  echo -v >> "Turma A 01/11 até 30/11" > cal_nov_2024.txt 
+  367  echo -v >> "Turma A 01/11 até 30/11" >> cal_nov_2024.txt 
+  368  echo -v >> "Turma A 01/11 até 30/11" > cal_nov_2024.txt 
+  369  ls
+  370  rm cal_nov_2024.txt 
+  371  ls
+  372  cd Lucas_Oliveira/
+  373  ls
+  374  cd SESC/
+  375  LS
+  376  ls
+  377  cd BEL/
+  378  cd SAN/
+  379  ls
+  380  cd ITA/
+  381  ls
+  382  cd ../
+  383  rm 'rm Meia Lua de Compasso
+  384  rm Meia Lua de Compasso
+  385  ls
+  386  ls
+  387  cd Lucas_Oliveira/SENAC
+  388  cd Lucas_Oliveira
+  389  ls
+  390  SESC/BEL/SAN/
+  391  SESC
+  392  cd SESC/
+  393  cd BEL/
+  394  ls
+  395  cd SAN/
+  396  ls
+  397  rm Meia Lua de Frente
+  398  rm "Meia Lua de Frente"
+  399  rm "Meia Lua de Compasso"
+  400  rm "Pião Rodado"
+  401  rm "Pisão Rodado"
+  402  ls
+  403  ls capoeita.sh 
+  404  cd ITA/
+  405  echo >> "Meia Lua de Frente"
+  406  ls
+  407  rm "Meia Lua de Frente" 
+  408  touch capoeira.sh
+  409  echo >> "Meia Lua de Frente" > capoeira.sh 
+  410  ls
+  411  rm "Meia Lua de Frente" 
+  412  ls]
+  413  ls
+  414  echo >> -v "Meia Lua de Frente" > capoeira.sh 
+  415  ls
+  416  echo >> -v "Meia Lua de Compasso" > capoeira.sh 
+  417  echo >> -v "Pisão Rodado" > capoeira.sh 
+  418  ls
+  419  rm -v
+  420  cat capoeira.sh 
+  421  echo >> -v "Meia Lua de Frente" >> capoe
+  422  cat capoeira.sh 
+  423  echo >> -v "Meia Lua de Compasso" >> capoeira.sh 
+  424  cat capoeira.sh 
+  425  cd ../
+  426  cd SENAI/
+  427  ls
+  428  BRA/
+  429  cd BRA/
+  430  ls
+  431  cd Tornearia/
+  432  ls
+  433  touch cal_nov_2024.txt
+  434  ls
+  435  echo >> "Turma A: 01/11 até 30/11" > cal_nov_2024.txt 
+  436  echo >> -v "Turma A: 01/11 até 30/11" > cal_nov_2024.txt 
+  437  ls
+  438  echo >> Turma A: 01/11 até 30/11 > cal_nov_2024.txt 
+  439  ls
+  440  cat cal_nov_2024.txt 
+  441  echo >> Turma A 01/11 até 30/11 > cal_nov_2024.txt 
+  442  cat cal_nov_2024.txt 
+  443  echo >> "Turma A 01/11 até 30/11" > cal_nov_2024.txt 
+  444  cat cal_nov_2024.txt 
+  445  echo >> "Turma A 01/11 até 30/11" > cal_nov_2024.txt 
+  446  ls
+  447  mkdir Fresagem
+  448  cd Fresagem/
+  449  touch cal_dez_2024.txt
+  450  echo >> "Turma B 01/12 até 31/12" >> Fresagem
+  451  echo >> "Turma B 01/12 até 31/12" > Fresagem
+  452  ls
+  453  cat cal_dez_2024.txt 
+  454  mkdir GUA
+  455  cd GUA/
+  456  mkdir Eletricista
+  457  cd Eletricista/
+  458  touch cal_jan_2025.txt
+  459  ls
+  460  echo >> "Turma A 01/01 até 31/01" > cal_jan_2025.txt 
+  461  cat cal_jan_2025.txt 
+  462  echo >> Turma A 01/01 até 31/01 > cal_jan_2025.txt 
+  463  ls
+  464  cat cal_jan_2025.txt 
+  465  mkdir TAT Drywall
+  466  cd TAT/
+  467  cd d
+  468  cd Drawall
+  469  ls
+  470  mkdir Drawall
+  471  LS
+  472  ls
+  473  cd Drawall/
+  474  cal_nov_2024.md
+  475  touch cal_nov_2024.md
+  476  ls
+  477  echo >> Turma A: 01/11  até 30/11
+  478  ls
+  479  cat cal_nov_2024.md 
+  480  cat Turma 
+  481  RM Turma 
+  482  mkdir PJS
+  483  cd PJS/
+  484  touch Empilhadeira
+  485  ls
+  486  rm Empilhadeira 
+  487  mkdir Empilhadeira
+  488  cd Empilhadeira/
+  489  touch cal_jan_2025.sh
+  490  ls
+  491  echo Turma A: 01/01 até 31/01 
+  492  ls
+  493  cat cal_jan_2025.sh 
+  494  echo >> Turma A: 01/01 até 31/01 > cal_jan_2025.sh 
+  495  cat cal_jan_2025.sh 
+  496  lass cal_jan_2025.sh 
+  497  less cal_jan_2025.sh 
+  498  sudo apt install tree
+  499  tree -h Lucas_Oliveira
+  500  cd../
+  501  cd ../
+  502  tree -h Lucas_Oliveira
+  503  cd Lucas_Oliveira/
+  504  cd ../
+  505  tree -h Lucas_Oliveira/
+  506  history
+  507  history > comandos.txt
