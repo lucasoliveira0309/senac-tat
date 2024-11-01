@@ -1,0 +1,8 @@
+Voltando a digitar texto no vim porque a aula está muito chata e quero ir embora porque nao gosto de Linux
+
+SENAC UTILIZANDO O MODO DE INSERÇÃO
+UTILIZANDO  senac-tat
+Repositório das Aulas do Curso Técnico em Informática do SENAC Tatuapé SP
+
+senac-tat
+Repositório das Aulas do Curso Técnico em Informática do SENAC Tatuapé SP
